@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace PratikDemo
 {
-    public class Class1
+    class Demo
     {
-        //this is pratik's class.....
-        //failed
+        //this is pratik's second class
     }
 }
